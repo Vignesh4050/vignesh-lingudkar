@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Vignesh Lingudkar
 
-### 🎓 B.Sc. Computer Science Graduate | AI & Automation Enthusiast
+### 🎓 B.Sc. Computer Science Graduate | AI & Data Analyst Enthusiast
 An analytical developer with a strong foundation in **Software Engineering** and **Embedded Systems**. I specialize in bridging the gap between data-driven software and automated hardware solutions.
 
 ---
